@@ -1,13 +1,14 @@
 # Curso Full Cycle 3.0 - DDD: Modelagem Tática e Patterns
 
-## Tecnologias Utilizadas
+## Dependências
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes dependências:
 
-- **TypeScript**: Para desenvolvimento do código de aplicação com tipagem estática.
-- **Jest**: Framework de testes utilizado para garantir a qualidade e funcionalidade do código.
-- **Sequelize**: ORM utilizado para interagir com bancos de dados relacionais.
-- **SQLite3**: Banco de dados leve utilizado durante o desenvolvimento e execução dos testes.
+- **Bibliotecas e Frameworks**:
+   - `TypeScript`: Para desenvolvimento do código de aplicação com tipagem estática.
+   - `Jest`: Framework de testes utilizado para garantir a qualidade e funcionalidade do código.
+   - `Sequelize`: ORM utilizado para interagir com bancos de dados relacionais.
+   - `SQLite3`: Banco de dados leve utilizado durante o desenvolvimento e execução dos testes.
 
 ## Desafio 1: Métodos de OrderRepository
 
